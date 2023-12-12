@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Teller of Secrets by Bisi Adjapon"
-author: sal
+author: Luci
 categories: [ Jekyll, tutorial ]
 image: assets/images/12.jpg
 featured: true
