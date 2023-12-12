@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Teller of Secrets by Bisi Adjapon"
-categories: [ Jekyll, tutorial ]
+categories: [ Nigerian, Ghanian, African ]
 image: assets/images/12.jpg
 description: "My review of Inception movie. Acting, plot and something else in this short description."
 featured: true
