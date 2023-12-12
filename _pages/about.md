@@ -10,7 +10,7 @@ comments: true
 
 <p>Sprint of Books is my way of sharing the amazing books I read each week. I read a new book and spill all the details – the good, the bad, and the must-reads. It's like having a cozy book chat with your friend (that's me!) who's always excited to recommend the latest page-turner. Come along, let's dive into the world of books together!</p>
 
-<p class="mb-5"><img class="shadow-lg" src="/assets/images/sprint-of-books.png" alt="Sprint of Books About" /></p>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/sprint-of-books.png" alt="jekyll template mediumish" /></p>
 <h4>Documentation</h4> 
 
 <p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
@@ -20,7 +20,7 @@ comments: true
 <p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
 
 </div>
-
+!-- <p class="mb-5"><img class="shadow-lg" src="/assets/images/sprint-of-books.png" alt="Sprint of Books About" /></p>
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
