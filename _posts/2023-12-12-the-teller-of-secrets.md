@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Let's test spoilers"
+title:  "The Teller of Secrets by Bisi Adjapon"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/12.jpg
