@@ -20,7 +20,7 @@ comments: true
 <p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
 
 </div>
-!-- <p class="mb-5"><img class="shadow-lg" src="/assets/images/sprint-of-books.png" alt="Sprint of Books About" /></p>
+
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
