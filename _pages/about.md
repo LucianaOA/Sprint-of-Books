@@ -8,10 +8,10 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>Sprint of Books is my way of sharing the amazing books I read each week. I read a new book and spill all the details – the good, the bad, and the must-reads. It's like having a cozy book chat with your friend (that's me!) who's always excited to recommend the latest page-turner. Come along, let's dive into the world of books together!</p>
 
 <p class="mb-5"><img class="shadow-lg" src="/assets/images/sprint-of-books.png" alt="Sprint of Books About" /></p>
-<h4>Documentation</h4>
+<h4>Documentation</h4> 
 
 <p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
 
