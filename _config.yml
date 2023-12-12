@@ -1,7 +1,7 @@
 # Site
 name: "Sprint of Books"
 title: "Sprint of Books"
-description: "Sprint of Books is my way of sharing each amazing book I read every week."
+description: "My way of sharing the amazing books I read each week."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /sprint-of-books
