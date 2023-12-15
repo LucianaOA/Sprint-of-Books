@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "An Ireland Worth Working For by Tom Healy"
-categories: [ Jekyll, tutorial ]
+categories: [Ecomony]
 tags: [red, yellow]
 image: assets/images/11.jpg
 description: "An Ireland Worth Working For by Tom Healy"
