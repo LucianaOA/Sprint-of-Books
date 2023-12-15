@@ -4,7 +4,7 @@ title:  "How Women Rise by Sally Helgesen and Marshall Goldsmith"
 categories: [Growth]
 image: assets/images/16.jpg
 ---
-How Women Rise: Break the 12 Habits Holding You Back from Your Next Raise, Promotion, or Job
+How Women Rise: Break the 12 Habits Holding You Back from Your Next Raise, Promotion, or Job.
 
 ## Special formatting
 
