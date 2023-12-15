@@ -4,8 +4,8 @@ title:  "The Teller of Secrets by Bisi Adjapon"
 categories: [African]
 image: assets/images/12.jpg
 description: "My review of Inception movie. Acting, plot and something else in this short description."
-featured: false
-hidden: true
+featured: true
+hidden: false
 rating: 4.5
 ---
 
