@@ -25,7 +25,7 @@ comments: true
 
 <div class="sticky-top sticky-top-80">
 <h5>Check out my Linkedin</h5>
-<p>Thank you for your support! <a target="_blank" href="https://www.linkedin.com/in/luciana-azubuike-509277172/">Lets connect on LinkedIn!<i class="fab fa-github"></i></a>.</p>
+<p>Thank you for your support! <a target="_blank" href="https://www.linkedin.com/in/luciana-azubuike-509277172/">Lets connect on LinkedIn!<i class="fab fa-linkedin"></i></a>.</p>
   
 <!--<p>Thank you for your support! Lets connect on LinkedIn!<a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Sprint of Books<i class="fab fa-github"></i></a>.</p>
 
