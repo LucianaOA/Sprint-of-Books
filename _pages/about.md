@@ -15,20 +15,21 @@ comments: true
 
 <p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
 
-<h4>Questions or bug reports?</h4>
+<h4>This page was made using the mediumish theme</h4>
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<p>Check out their <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
 
 </div>
 
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<!-- <h5>Buy the persome a coffee</h5>
+<h5>Check out my Linkedin</h5>
+<p>Thank you for your support! <a target="_blank" href="https://www.linkedin.com/in/luciana-azubuike-509277172/">Lets connect on LinkedIn!<i class="fab fa-github"></i></a>.</p>
+  
+<!--<p>Thank you for your support! Lets connect on LinkedIn!<a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Sprint of Books<i class="fab fa-github"></i></a>.</p>
 
-<p>Thank you for your support! Your donation helps me read and review more books for <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Sprint of Books<i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a> -->
+<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>-->
 
 </div>
 </div>
