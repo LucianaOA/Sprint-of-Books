@@ -6,7 +6,7 @@ image: assets/images/12.jpg
 description: "My short description."
 featured: true
 hidden: true
-rating: *.*
+rating: 4.5
 ---
 
 Come back for my review of this interesting read.
