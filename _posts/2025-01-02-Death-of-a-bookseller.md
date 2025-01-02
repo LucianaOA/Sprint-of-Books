@@ -3,7 +3,7 @@ layout: post
 title:  "Death of A Book Seller"
 categories: [Thriller]
 tags: [red, yellow]
-image: assets/images/11.jpg
+image: assets/images/18.jpg
 description: "Alice Slater"
 featured: true
 hidden: true
