@@ -5,6 +5,8 @@ categories: [Thriller]
 tags: [red, yellow]
 image: assets/images/11.jpg
 description: "Alice Slater"
+featured: true
+hidden: true
 rating: 4.5
 ---
 
